@@ -26,6 +26,8 @@ Resulta una pesadilla encontrar una lista de países actualizada, en castellano 
 La lista está actualizada a enero de 2011: paises.sql (20kb).
 
 ```
+https://en.wikipedia.org/wiki/ISO_3166
+https://en.wikipedia.org/wiki/Lists_of_ISO_639_codes
 
 https://davidmartinez.net/archivos/general/lista-de-paises-en-sql.php
 
