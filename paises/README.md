@@ -9,6 +9,7 @@ https://en.wikipedia.org/wiki/ISO_3166
 https://en.wikipedia.org/wiki/Lists_of_ISO_639_codes
 
 https://davidmartinez.net/archivos/general/lista-de-paises-en-sql.php
+https://github.com/ponceelrelajado/paises_estados_del_mundo
 
 
 https://davidmartinez.net/archivos/general/lista-de-paises-en-sql.php
