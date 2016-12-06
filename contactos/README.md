@@ -7,9 +7,6 @@ Hace referencia a un contacto de la misma tabla que es propietario o gestiona el
 
 
 
-
-
-
 Fuentes:
 https://github.com/sait/crm-api/blob/master/crm-database.sql
 
