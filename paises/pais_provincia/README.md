@@ -1,4 +1,6 @@
+Ejemplo
 
+Codigo aca 
 https://github.com/ponceelrelajado/paises_estados_del_mundo
 
 
@@ -39,5 +41,11 @@ INSERT INTO `estado` (`id`, `ubicacionpaisid`, `estadonombre`) VALUES
 (1, 3, 'Azerbaijan'),
 (2, 3, 'Nargorni Karabakh'),
 (3, 3, 'Nakhichevanskaya Region'),
+...
+(1809, 103, 'Morona-Santiago'),
+(1810, 103, 'Pastaza'),
+(1811, 103, 'Pichincha'),
+(1812, 103, 'Tungurahua'),
+
 ```
 
